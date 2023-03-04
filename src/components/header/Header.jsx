@@ -15,8 +15,8 @@ export const Header = () => {
         <HeaderSocials />
 
         <div className='me'>
-        <img src={me} alt='me' />
-      </div>
+          <img src={me} alt='me' />
+        </div>
 
         <a href='#contact' className='scroll__down'>Scroll down</a>
       </div>
